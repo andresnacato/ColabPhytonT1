@@ -2,7 +2,7 @@
 
 ## 📖 Descripción del Proyecto
 
-Este proyecto fue desarrollado como parte de la asignatura **Ciencia de Datos con Python** de la Maestría. El objetivo es analizar un conjunto de datos de solicitudes de crédito mediante técnicas de análisis exploratorio de datos (EDA) y construir un modelo de **Machine Learning supervisado** que permita predecir la aprobación o rechazo de una solicitud de crédito.
+Este proyecto fue desarrollado como parte de la asignatura Big Data, Analytics & Data Scientists de la Maestría. El objetivo es analizar un conjunto de datos de solicitudes de crédito mediante técnicas de análisis exploratorio de datos (EDA) y construir un modelo de **Machine Learning supervisado** que permita predecir la aprobación o rechazo de una solicitud de crédito.
 
 El trabajo sigue un flujo completo de Ciencia de Datos, desde la carga y limpieza de los datos hasta la evaluación de un modelo predictivo utilizando Scikit-Learn.
 
@@ -239,7 +239,7 @@ El historial crediticio y los ingresos de los solicitantes fueron los factores m
 
 **Andrés Ñacato**
 
-Proyecto desarrollado para la **Maestría** – Asignatura de Ciencia de Datos con Python.
+Proyecto desarrollado para la **Maestría** – Asignatura de Big Data, Analytics & Data Scientists.
 
 ---
 
